@@ -1,0 +1,13 @@
+{
+  "name": "1-adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "task": "ts-node task.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
